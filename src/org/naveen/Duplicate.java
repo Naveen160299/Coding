@@ -5,5 +5,8 @@ private void navee() {
 	System.out.println("ABCD");
 
 }
+private void Krish() {
+	System.out.println("Krish");
 
+}
 }
